@@ -1,0 +1,21 @@
+
+ /* Garantindo que o body ocupe toda a área da tela */
+ html, body {
+    height: 100%; /* Define a altura como 100% */
+    margin: 0; /* Remove margens padrão */
+}
+
+/* Configuração do background */
+body {
+    background-image: url('fundo.png'); /* Caminho da imagem */
+    background-size: cover; /* Faz a imagem cobrir toda a área */
+    background-repeat: no-repeat; /* Evita repetição */
+    background-position: center; /* Centraliza a imagem */
+}
+
+.primeiro{
+
+text-align: center;
+color: aliceblue;
+
+}
